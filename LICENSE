@@ -1,12 +1,18 @@
 Nsrc-papercode License 
+
      Copyright (c) 2019 nsrc-papercode 
+     
+     
      Permission is hereby granted, free of charge, to any person obtaining a copy of this software and  
  associated documentation files (the "Software"), to deal in the Software, including the rights to use, 
  copy, modify, merge, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: 
+ 
      1. If you refer to or use these materials in your paper, please quote this paper:  
    "Zhang H, Haoran G, Qiaoyan W, et al. TargetedFool: A Simple Method to Achieve Targeted Attack" .
+   
      2. Commercial use or other operations please contact the authors and journal publisher.  
-     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. 
+     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+     
      THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES  
  OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE  
  LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR  
